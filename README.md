@@ -42,7 +42,8 @@ Bookmarks & Buttons: Designed an interactive dashboard using bookmarks and butto
 Filters: Applied strategic filters to refine the data, focusing on relevant insights and facilitating a more targeted analysis.
 
  ## Tools
- Microsoft Power BI Desktop
- Data source: https://www.kaggle.com/datasets/giovamata/airlinedelaycauses?select=DelayedFlights.csv
+ -Microsoft Power BI Desktop.
+ 
+-Data source: https://www.kaggle.com/datasets/giovamata/airlinedelaycauses?select=DelayedFlights.csv
    
     
